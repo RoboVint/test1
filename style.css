@@ -1,0 +1,78 @@
+main{
+  flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+    min-height: 700px;
+    background-image: url("photo_Class2.jpg");
+    background-attachment: fixed;
+}
+.card_ODN{
+    margin-top: 100px;
+    margin-left: 300px;
+    width: 600px;
+    height: 700px;
+    font-size:40px;
+    text-align: center;
+    box-shadow: 0 0 20px black;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 30px 5px;
+    padding: 30px;
+    line-height: 70px;
+}
+.card_DTeachers1{
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 600px;
+    height: 700px;
+    font-size:40px;
+    text-align: center;
+    box-shadow: 0 0 20px black;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 30px 5px;
+    padding: 30px;
+    line-height: 70px;
+}
+.card_DTeachers2{
+    margin-top: -760px;
+    margin-left: 750px;
+    width: 600px;
+    height: 300px;
+    font-size:40px;
+    text-align: center;
+    box-shadow: 0 0 20px black;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 30px 5px;
+    padding: 30px;
+    line-height: 70px;
+}
+.card_DTeachers3{
+    margin-top: 30px;
+    margin-left: 750px;
+    width: 600px;
+    height: 300px;
+    font-size:40px;
+    text-align: center;
+    box-shadow: 0 0 20px black;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 30px 5px;
+    padding: 30px;
+    line-height: 70px;
+}
+a {
+  border-radius: 15px 10px;
+  text-decoration: none;
+  color: black;
+  background-color: rgba(40, 148,225);
+}
+nav>a{
+  font-size: 35px;
+}
+
+header{
+  line-height: 10px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
