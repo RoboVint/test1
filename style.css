@@ -1,5 +1,7 @@
 main{
-
+      flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
     min-height: 700px;
     background-image: url("photo_Class2.jpg");
     background-repeat: no-repeat;
